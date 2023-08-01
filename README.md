@@ -10,3 +10,7 @@ para algum projeto próprio.
 ### Comandos
 * npm init: para instalar a sua pasta do node_modules <br><br>
 * npm install dotenv: para você criar a sua própria variável de ambiente e usá-la no projeto
+
+## Tecnologias usadas
+* Node.js <br><br>
+* MongoDB
