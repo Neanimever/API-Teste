@@ -8,8 +8,9 @@ para algum projeto próprio.
 É uma API que interage com um banco de dados que contém as informações de: name, salary e approved, respectivamente.
 
 ### Comandos
-* npm init: para instalar a sua pasta do node_modules <br><br>
-* npm install dotenv: para você criar a sua própria variável de ambiente e usá-la no projeto
+* npm i express: para instalar a sua pasta do node_modules <br><br>
+* npm i dotenv: para você criar a sua própria variável de ambiente e usá-la no projeto <br><br>
+* npm i nodemon -D: para atualizar a aplicação em desenvolvimento
 
 ## Tecnologias usadas
 * Node.js <br><br>
